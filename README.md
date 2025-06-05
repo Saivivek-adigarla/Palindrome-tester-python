@@ -1,0 +1,2 @@
+# Palindrome-tester-python
+ Passionate about Python programming and data analytics. 🚀 Building mini-projects to improve my coding skills. 💡 Exploring AI, visualization, and simple automation tools. 📚 Currently learning GitHub, NumPy, and Pandas
